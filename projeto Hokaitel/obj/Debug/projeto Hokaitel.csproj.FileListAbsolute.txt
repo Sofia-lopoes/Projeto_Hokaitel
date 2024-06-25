@@ -1,0 +1,17 @@
+C:\Users\55119\source\repos\projeto Hokaitel\projeto Hokaitel\bin\Debug\projeto Hokaitel.exe.config
+C:\Users\55119\source\repos\projeto Hokaitel\projeto Hokaitel\bin\Debug\projeto Hokaitel.exe
+C:\Users\55119\source\repos\projeto Hokaitel\projeto Hokaitel\bin\Debug\projeto Hokaitel.pdb
+C:\Users\55119\source\repos\projeto Hokaitel\projeto Hokaitel\obj\Debug\projeto Hokaitel.csproj.AssemblyReference.cache
+C:\Users\55119\source\repos\projeto Hokaitel\projeto Hokaitel\obj\Debug\projeto_Hokaitel.Properties.Resources.resources
+C:\Users\55119\source\repos\projeto Hokaitel\projeto Hokaitel\obj\Debug\projeto Hokaitel.csproj.GenerateResource.cache
+C:\Users\55119\source\repos\projeto Hokaitel\projeto Hokaitel\obj\Debug\projeto Hokaitel.csproj.CoreCompileInputs.cache
+C:\Users\55119\source\repos\projeto Hokaitel\projeto Hokaitel\obj\Debug\projeto Hokaitel.exe
+C:\Users\55119\source\repos\projeto Hokaitel\projeto Hokaitel\obj\Debug\projeto Hokaitel.pdb
+C:\Users\55119\source\repos\projeto Hokaitel\projeto Hokaitel\obj\Debug\projeto_Hokaitel.FormLogin.resources
+C:\Users\55119\source\repos\projeto Hokaitel\projeto Hokaitel\obj\Debug\projeto_Hokaitel.FormCadastrar.resources
+C:\Users\55119\source\repos\projeto Hokaitel\projeto Hokaitel\obj\Debug\projeto_Hokaitel.FormCheckinout.resources
+C:\Users\55119\source\repos\projeto Hokaitel\projeto Hokaitel\obj\Debug\projeto_Hokaitel.FormRelatoris.resources
+C:\Users\55119\source\repos\projeto Hokaitel\projeto Hokaitel\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\55119\source\repos\projeto Hokaitel\projeto Hokaitel\obj\Debug\projeto .28E22424.Up2Date
+C:\Users\55119\source\repos\projeto Hokaitel\projeto Hokaitel\obj\Debug\projeto_Hokaitel.FormMenu.resources
+C:\Users\55119\source\repos\projeto Hokaitel\projeto Hokaitel\obj\Debug\projeto_Hokaitel.ReservaAdmin.resources
