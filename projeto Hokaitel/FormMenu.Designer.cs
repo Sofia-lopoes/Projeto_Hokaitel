@@ -31,6 +31,7 @@
             this.components = new System.ComponentModel.Container();
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(FormMenu));
             this.menuvertical = new System.Windows.Forms.Panel();
+            this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.pictureBox4 = new System.Windows.Forms.PictureBox();
             this.pictureBox3 = new System.Windows.Forms.PictureBox();
             this.pictureBox2 = new System.Windows.Forms.PictureBox();
@@ -44,14 +45,13 @@
             this.bntHora = new System.Windows.Forms.Label();
             this.bntData = new System.Windows.Forms.Label();
             this.Horafechada = new System.Windows.Forms.Timer(this.components);
-            this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.menuvertical.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox4)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).BeginInit();
             this.barratitulo.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.Honkaitel)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.SuspendLayout();
             // 
             // menuvertical
@@ -67,8 +67,18 @@
             this.menuvertical.Dock = System.Windows.Forms.DockStyle.Left;
             this.menuvertical.Location = new System.Drawing.Point(0, 0);
             this.menuvertical.Name = "menuvertical";
-            this.menuvertical.Size = new System.Drawing.Size(150, 450);
+            this.menuvertical.Size = new System.Drawing.Size(150, 469);
             this.menuvertical.TabIndex = 1;
+            // 
+            // pictureBox1
+            // 
+            this.pictureBox1.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox1.Image")));
+            this.pictureBox1.Location = new System.Drawing.Point(6, 3);
+            this.pictureBox1.Name = "pictureBox1";
+            this.pictureBox1.Size = new System.Drawing.Size(138, 122);
+            this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.pictureBox1.TabIndex = 7;
+            this.pictureBox1.TabStop = false;
             // 
             // pictureBox4
             // 
@@ -145,7 +155,7 @@
             this.barratitulo.Dock = System.Windows.Forms.DockStyle.Top;
             this.barratitulo.Location = new System.Drawing.Point(150, 0);
             this.barratitulo.Name = "barratitulo";
-            this.barratitulo.Size = new System.Drawing.Size(650, 30);
+            this.barratitulo.Size = new System.Drawing.Size(710, 30);
             this.barratitulo.TabIndex = 2;
             // 
             // bntMinimizar
@@ -159,7 +169,7 @@
             this.bntMinimizar.IconColor = System.Drawing.SystemColors.ControlDark;
             this.bntMinimizar.IconFont = FontAwesome.Sharp.IconFont.Auto;
             this.bntMinimizar.IconSize = 30;
-            this.bntMinimizar.Location = new System.Drawing.Point(553, -1);
+            this.bntMinimizar.Location = new System.Drawing.Point(603, -1);
             this.bntMinimizar.Name = "bntMinimizar";
             this.bntMinimizar.Size = new System.Drawing.Size(49, 31);
             this.bntMinimizar.TabIndex = 10;
@@ -177,7 +187,7 @@
             this.btnFechar.IconColor = System.Drawing.SystemColors.ControlDark;
             this.btnFechar.IconFont = FontAwesome.Sharp.IconFont.Auto;
             this.btnFechar.IconSize = 30;
-            this.btnFechar.Location = new System.Drawing.Point(608, -1);
+            this.btnFechar.Location = new System.Drawing.Point(658, 0);
             this.btnFechar.Name = "btnFechar";
             this.btnFechar.Size = new System.Drawing.Size(49, 31);
             this.btnFechar.TabIndex = 9;
@@ -221,22 +231,12 @@
             this.Horafechada.Enabled = true;
             this.Horafechada.Tick += new System.EventHandler(this.Horafechada_Tick);
             // 
-            // pictureBox1
-            // 
-            this.pictureBox1.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox1.Image")));
-            this.pictureBox1.Location = new System.Drawing.Point(6, 3);
-            this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(138, 122);
-            this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.pictureBox1.TabIndex = 7;
-            this.pictureBox1.TabStop = false;
-            // 
             // FormMenu
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(15)))), ((int)(((byte)(15)))), ((int)(((byte)(15)))));
-            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.ClientSize = new System.Drawing.Size(860, 469);
             this.Controls.Add(this.bntData);
             this.Controls.Add(this.bntHora);
             this.Controls.Add(this.Honkaitel);
@@ -244,14 +244,16 @@
             this.Controls.Add(this.menuvertical);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.Name = "FormMenu";
+            this.Opacity = 0.9D;
             this.Text = "FormMenu";
+            this.Load += new System.EventHandler(this.FormMenu_Load);
             this.menuvertical.ResumeLayout(false);
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox4)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).EndInit();
             this.barratitulo.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.Honkaitel)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 

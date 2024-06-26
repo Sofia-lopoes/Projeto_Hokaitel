@@ -54,5 +54,12 @@ namespace projeto_Hokaitel
         {
 
         }
+
+        private void Cadastrar_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
+        {
+            FormCadastrar formCadastrar = new FormCadastrar();
+            formCadastrar.Show();
+            this.Hide();
+        }
     }
 }

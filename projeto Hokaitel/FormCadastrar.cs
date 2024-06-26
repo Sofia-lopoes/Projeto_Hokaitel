@@ -5,6 +5,7 @@ using System.Data;
 using System.Drawing;
 using System.Linq;
 using System.Text;
+using System.Threading;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
@@ -41,72 +42,72 @@ namespace projeto_Hokaitel
 
         private void textNome_TextChanged(object sender, EventArgs e)
         {
-            if (textNome.Text == "Nome")
+            if (txt123.Text == "Nome")
             {
-                textNome.Text = "";
-                textNome.ForeColor = Color.LightGray;
+                txt123.Text = "";
+                txt123.ForeColor = Color.LightGray;
 
             }
         }
         private void textNome_Leave(object sender, EventArgs e)
         {
-            if (textNome.Text == null)
+            if (txt123.Text == null)
             {
-                textNome.Text = "Usuario";
-                textNome.ForeColor = Color.DimGray;
+                txt123.Text = "Usuario";
+                txt123.ForeColor = Color.DimGray;
             }
 
         }
 
         private void textEmail_TextChanged(object sender, EventArgs e)
         {
-            if (textEmail.Text == "Email")
+            if (txt.Text == "Email")
             {
-                textEmail.Text = "";
-                textEmail.ForeColor = Color.LightGray;
+                txt.Text = "";
+                txt.ForeColor = Color.LightGray;
             }
         }
         private void textEmail_Leave(object sender, EventArgs e)
         {
-            if (textEmail.Text == null)
+            if (txt.Text == null)
             {
-                textEmail.Text = "Usuario";
-                textEmail.ForeColor = Color.DimGray;
+                txt.Text = "Usuario";
+                txt.ForeColor = Color.DimGray;
             }
 
         }
 
         private void textCPF_TextChanged(object sender, EventArgs e)
         {
-            if (textCPF.Text == "CPF")
+            if (text.Text == "CPF")
             {
-                textCPF.Text = "";
-                textCPF.ForeColor = Color.LightGray;
+                text.Text = "";
+                text.ForeColor = Color.LightGray;
             }
         }
         private void textCPF_Leave(object sender, EventArgs e)
         {
-            if (textCPF.Text == null)
+            if (text.Text == null)
             {
-                textCPF.Text = "Usuario";
-                textCPF.ForeColor = Color.DimGray;
+                text.Text = "Usuario";
+                text.ForeColor = Color.DimGray;
             }
         }
 
         private void textSetor_TextChanged(object sender, EventArgs e)
         {
-            if (textSetor.Text == "Setro")
+            if (textsla.Text == "Setro")
             {
-                textSetor.Text = "";
-                textSetor.ForeColor = Color.LightGray;
+                textsla.Text = "";
+                textsla.ForeColor = Color.LightGray;
             }
         }
         private void textSetor_Leave(object sender, EventArgs e)
         {
-            if (textSetor.Text == null)
+            if (textsla.Text == null)
             {
-                textSetor.Text = "Usuario";
-                textSetor.ForeColor = Color.DimGray;
+                textsla.Text = "Usuario";
+                textsla.ForeColor = Color.DimGray;
             }
 
         }
@@ -161,13 +162,14 @@ namespace projeto_Hokaitel
 
         private void btnRegistrado_Click(object sender, EventArgs e)
         {
-
-            if (count > 0)
-            {
                 FormLogin formLogin1 = new FormLogin();
                 formLogin1.Show();
                 this.Hide();
-            }
+
+        }
+
+        private void textBox5_TextChanged(object sender, EventArgs e)
+        {
 
         }
     }

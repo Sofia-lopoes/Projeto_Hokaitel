@@ -40,6 +40,7 @@
             this.btnFechar = new FontAwesome.Sharp.IconButton();
             this.bntMinimizar = new FontAwesome.Sharp.IconButton();
             this.iconButton1 = new FontAwesome.Sharp.IconButton();
+            this.Cadastrar = new System.Windows.Forms.LinkLabel();
             this.panel1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).BeginInit();
             this.SuspendLayout();
@@ -107,7 +108,6 @@
             this.inputUser.Size = new System.Drawing.Size(413, 21);
             this.inputUser.TabIndex = 1;
             this.inputUser.Text = "Usuario";
-            this.inputUser.TextChanged += new System.EventHandler(this.inputUser_TextChanged);
             // 
             // inputSenha
             // 
@@ -198,12 +198,27 @@
             this.iconButton1.TabIndex = 9;
             this.iconButton1.UseVisualStyleBackColor = true;
             // 
+            // Cadastrar
+            // 
+            this.Cadastrar.ActiveLinkColor = System.Drawing.Color.LightGray;
+            this.Cadastrar.AutoSize = true;
+            this.Cadastrar.LinkColor = System.Drawing.Color.Gray;
+            this.Cadastrar.Location = new System.Drawing.Point(514, 375);
+            this.Cadastrar.Name = "Cadastrar";
+            this.Cadastrar.Size = new System.Drawing.Size(82, 20);
+            this.Cadastrar.TabIndex = 10;
+            this.Cadastrar.TabStop = true;
+            this.Cadastrar.Text = "Cadastrar";
+            this.Cadastrar.VisitedLinkColor = System.Drawing.Color.LightGray;
+            this.Cadastrar.LinkClicked += new System.Windows.Forms.LinkLabelLinkClickedEventHandler(this.Cadastrar_LinkClicked);
+            // 
             // FormLogin
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(15)))), ((int)(((byte)(15)))), ((int)(((byte)(15)))));
             this.ClientSize = new System.Drawing.Size(866, 412);
+            this.Controls.Add(this.Cadastrar);
             this.Controls.Add(this.iconButton1);
             this.Controls.Add(this.bntMinimizar);
             this.Controls.Add(this.btnFechar);
@@ -240,6 +255,7 @@
         private FontAwesome.Sharp.IconButton btnFechar;
         private FontAwesome.Sharp.IconButton bntMinimizar;
         private FontAwesome.Sharp.IconButton iconButton1;
+        private System.Windows.Forms.LinkLabel Cadastrar;
     }
 }
 

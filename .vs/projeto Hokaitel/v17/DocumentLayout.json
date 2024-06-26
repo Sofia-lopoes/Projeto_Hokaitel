@@ -3,60 +3,56 @@
   "WorkspaceRootPath": "C:\\Users\\55119\\source\\repos\\projeto Hokaitel\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3F3E01F0-8361-45FB-8FFB-6296B88FC6C9}|projeto Hokaitel\\projeto Hokaitel.csproj|C:\\Users\\55119\\source\\repos\\projeto Hokaitel\\projeto hokaitel\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3F3E01F0-8361-45FB-8FFB-6296B88FC6C9}|projeto Hokaitel\\projeto Hokaitel.csproj|solutionrelative:projeto hokaitel\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3F3E01F0-8361-45FB-8FFB-6296B88FC6C9}|projeto Hokaitel\\projeto Hokaitel.csproj|C:\\Users\\55119\\source\\repos\\projeto Hokaitel\\projeto hokaitel\\formrelatoris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F3E01F0-8361-45FB-8FFB-6296B88FC6C9}|projeto Hokaitel\\projeto Hokaitel.csproj|solutionrelative:projeto hokaitel\\formrelatoris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3F3E01F0-8361-45FB-8FFB-6296B88FC6C9}|projeto Hokaitel\\projeto Hokaitel.csproj|C:\\Users\\55119\\source\\repos\\projeto Hokaitel\\projeto hokaitel\\reservaadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3F3E01F0-8361-45FB-8FFB-6296B88FC6C9}|projeto Hokaitel\\projeto Hokaitel.csproj|solutionrelative:projeto hokaitel\\reservaadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3F3E01F0-8361-45FB-8FFB-6296B88FC6C9}|projeto Hokaitel\\projeto Hokaitel.csproj|c:\\users\\55119\\source\\repos\\projeto hokaitel\\projeto hokaitel\\reservaadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{3F3E01F0-8361-45FB-8FFB-6296B88FC6C9}|projeto Hokaitel\\projeto Hokaitel.csproj|solutionrelative:projeto hokaitel\\reservaadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3F3E01F0-8361-45FB-8FFB-6296B88FC6C9}|projeto Hokaitel\\projeto Hokaitel.csproj|C:\\Users\\55119\\source\\repos\\projeto Hokaitel\\projeto hokaitel\\formcheckinout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{3F3E01F0-8361-45FB-8FFB-6296B88FC6C9}|projeto Hokaitel\\projeto Hokaitel.csproj|solutionrelative:projeto hokaitel\\formcheckinout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3F3E01F0-8361-45FB-8FFB-6296B88FC6C9}|projeto Hokaitel\\projeto Hokaitel.csproj|C:\\Users\\55119\\source\\repos\\projeto Hokaitel\\projeto hokaitel\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{3F3E01F0-8361-45FB-8FFB-6296B88FC6C9}|projeto Hokaitel\\projeto Hokaitel.csproj|solutionrelative:projeto hokaitel\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3F3E01F0-8361-45FB-8FFB-6296B88FC6C9}|projeto Hokaitel\\projeto Hokaitel.csproj|C:\\Users\\55119\\source\\repos\\projeto Hokaitel\\projeto hokaitel\\formmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3F3E01F0-8361-45FB-8FFB-6296B88FC6C9}|projeto Hokaitel\\projeto Hokaitel.csproj|solutionrelative:projeto hokaitel\\formmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3F3E01F0-8361-45FB-8FFB-6296B88FC6C9}|projeto Hokaitel\\projeto Hokaitel.csproj|C:\\Users\\55119\\source\\repos\\projeto Hokaitel\\projeto hokaitel\\formrelatoris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3F3E01F0-8361-45FB-8FFB-6296B88FC6C9}|projeto Hokaitel\\projeto Hokaitel.csproj|solutionrelative:projeto hokaitel\\formrelatoris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3F3E01F0-8361-45FB-8FFB-6296B88FC6C9}|projeto Hokaitel\\projeto Hokaitel.csproj|C:\\Users\\55119\\source\\repos\\projeto Hokaitel\\projeto hokaitel\\formmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{3F3E01F0-8361-45FB-8FFB-6296B88FC6C9}|projeto Hokaitel\\projeto Hokaitel.csproj|solutionrelative:projeto hokaitel\\formmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3F3E01F0-8361-45FB-8FFB-6296B88FC6C9}|projeto Hokaitel\\projeto Hokaitel.csproj|C:\\Users\\55119\\source\\repos\\projeto Hokaitel\\projeto hokaitel\\formcheckinout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3F3E01F0-8361-45FB-8FFB-6296B88FC6C9}|projeto Hokaitel\\projeto Hokaitel.csproj|solutionrelative:projeto hokaitel\\formcheckinout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3F3E01F0-8361-45FB-8FFB-6296B88FC6C9}|projeto Hokaitel\\projeto Hokaitel.csproj|C:\\Users\\55119\\source\\repos\\projeto Hokaitel\\projeto hokaitel\\formrelatoris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3F3E01F0-8361-45FB-8FFB-6296B88FC6C9}|projeto Hokaitel\\projeto Hokaitel.csproj|solutionrelative:projeto hokaitel\\formrelatoris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3F3E01F0-8361-45FB-8FFB-6296B88FC6C9}|projeto Hokaitel\\projeto Hokaitel.csproj|C:\\Users\\55119\\source\\repos\\projeto Hokaitel\\projeto hokaitel\\formcadastrar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3F3E01F0-8361-45FB-8FFB-6296B88FC6C9}|projeto Hokaitel\\projeto Hokaitel.csproj|solutionrelative:projeto hokaitel\\formcadastrar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3F3E01F0-8361-45FB-8FFB-6296B88FC6C9}|projeto Hokaitel\\projeto Hokaitel.csproj|C:\\Users\\55119\\source\\repos\\projeto Hokaitel\\projeto hokaitel\\formcadastrar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{3F3E01F0-8361-45FB-8FFB-6296B88FC6C9}|projeto Hokaitel\\projeto Hokaitel.csproj|solutionrelative:projeto hokaitel\\formcadastrar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{3F3E01F0-8361-45FB-8FFB-6296B88FC6C9}|projeto Hokaitel\\projeto Hokaitel.csproj|C:\\Users\\55119\\source\\repos\\projeto Hokaitel\\projeto hokaitel\\formmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F3E01F0-8361-45FB-8FFB-6296B88FC6C9}|projeto Hokaitel\\projeto Hokaitel.csproj|solutionrelative:projeto hokaitel\\formmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3F3E01F0-8361-45FB-8FFB-6296B88FC6C9}|projeto Hokaitel\\projeto Hokaitel.csproj|c:\\users\\55119\\source\\repos\\projeto hokaitel\\projeto hokaitel\\formlogin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3F3E01F0-8361-45FB-8FFB-6296B88FC6C9}|projeto Hokaitel\\projeto Hokaitel.csproj|solutionrelative:projeto hokaitel\\formlogin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3F3E01F0-8361-45FB-8FFB-6296B88FC6C9}|projeto Hokaitel\\projeto Hokaitel.csproj|c:\\users\\55119\\source\\repos\\projeto hokaitel\\projeto hokaitel\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3F3E01F0-8361-45FB-8FFB-6296B88FC6C9}|projeto Hokaitel\\projeto Hokaitel.csproj|c:\\users\\55119\\source\\repos\\projeto hokaitel\\projeto hokaitel\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F3E01F0-8361-45FB-8FFB-6296B88FC6C9}|projeto Hokaitel\\projeto Hokaitel.csproj|solutionrelative:projeto hokaitel\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F3E01F0-8361-45FB-8FFB-6296B88FC6C9}|projeto Hokaitel\\projeto Hokaitel.csproj|c:\\users\\55119\\source\\repos\\projeto hokaitel\\projeto hokaitel\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3F3E01F0-8361-45FB-8FFB-6296B88FC6C9}|projeto Hokaitel\\projeto Hokaitel.csproj|solutionrelative:projeto hokaitel\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F3E01F0-8361-45FB-8FFB-6296B88FC6C9}|projeto Hokaitel\\projeto Hokaitel.csproj|C:\\Users\\55119\\source\\repos\\projeto Hokaitel\\projeto hokaitel\\formcadastrar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F3E01F0-8361-45FB-8FFB-6296B88FC6C9}|projeto Hokaitel\\projeto Hokaitel.csproj|solutionrelative:projeto hokaitel\\formcadastrar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F3E01F0-8361-45FB-8FFB-6296B88FC6C9}|projeto Hokaitel\\projeto Hokaitel.csproj|C:\\Users\\55119\\source\\repos\\projeto Hokaitel\\projeto hokaitel\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3F3E01F0-8361-45FB-8FFB-6296B88FC6C9}|projeto Hokaitel\\projeto Hokaitel.csproj|solutionrelative:projeto hokaitel\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3F3E01F0-8361-45FB-8FFB-6296B88FC6C9}|projeto Hokaitel\\projeto Hokaitel.csproj|C:\\Users\\55119\\source\\repos\\projeto Hokaitel\\projeto hokaitel\\formrelatoris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{3F3E01F0-8361-45FB-8FFB-6296B88FC6C9}|projeto Hokaitel\\projeto Hokaitel.csproj|solutionrelative:projeto hokaitel\\formrelatoris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{3F3E01F0-8361-45FB-8FFB-6296B88FC6C9}|projeto Hokaitel\\projeto Hokaitel.csproj|C:\\Users\\55119\\source\\repos\\projeto Hokaitel\\projeto hokaitel\\reservaadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F3E01F0-8361-45FB-8FFB-6296B88FC6C9}|projeto Hokaitel\\projeto Hokaitel.csproj|solutionrelative:projeto hokaitel\\reservaadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F3E01F0-8361-45FB-8FFB-6296B88FC6C9}|projeto Hokaitel\\projeto Hokaitel.csproj|C:\\Users\\55119\\source\\repos\\projeto Hokaitel\\projeto hokaitel\\formcheckinout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F3E01F0-8361-45FB-8FFB-6296B88FC6C9}|projeto Hokaitel\\projeto Hokaitel.csproj|solutionrelative:projeto hokaitel\\formcheckinout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F3E01F0-8361-45FB-8FFB-6296B88FC6C9}|projeto Hokaitel\\projeto Hokaitel.csproj|C:\\Users\\55119\\source\\repos\\projeto Hokaitel\\projeto hokaitel\\formcheckinout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3F3E01F0-8361-45FB-8FFB-6296B88FC6C9}|projeto Hokaitel\\projeto Hokaitel.csproj|solutionrelative:projeto hokaitel\\formcheckinout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F3E01F0-8361-45FB-8FFB-6296B88FC6C9}|projeto Hokaitel\\projeto Hokaitel.csproj|C:\\Users\\55119\\source\\repos\\projeto Hokaitel\\projeto hokaitel\\reservaadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3F3E01F0-8361-45FB-8FFB-6296B88FC6C9}|projeto Hokaitel\\projeto Hokaitel.csproj|solutionrelative:projeto hokaitel\\reservaadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3F3E01F0-8361-45FB-8FFB-6296B88FC6C9}|projeto Hokaitel\\projeto Hokaitel.csproj|C:\\Users\\55119\\source\\repos\\projeto Hokaitel\\projeto hokaitel\\formcheckinout.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -70,175 +66,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 199,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "FormLogin.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\55119\\source\\repos\\projeto Hokaitel\\projeto Hokaitel\\FormLogin.cs",
-              "RelativeDocumentMoniker": "projeto Hokaitel\\FormLogin.cs",
-              "ToolTip": "C:\\Users\\55119\\source\\repos\\projeto Hokaitel\\projeto Hokaitel\\FormLogin.cs [Design]",
-              "RelativeToolTip": "projeto Hokaitel\\FormLogin.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-24T18:54:51.336Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ReservaAdmin.cs",
-              "DocumentMoniker": "C:\\Users\\55119\\source\\repos\\projeto Hokaitel\\projeto Hokaitel\\ReservaAdmin.cs",
-              "RelativeDocumentMoniker": "projeto Hokaitel\\ReservaAdmin.cs",
-              "ToolTip": "C:\\Users\\55119\\source\\repos\\projeto Hokaitel\\projeto Hokaitel\\ReservaAdmin.cs",
-              "RelativeToolTip": "projeto Hokaitel\\ReservaAdmin.cs",
-              "ViewState": "AQIAAB0AAAAAAAAAAAAAADEAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-25T18:08:49.284Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "FormLogin.cs",
-              "DocumentMoniker": "C:\\Users\\55119\\source\\repos\\projeto Hokaitel\\projeto Hokaitel\\FormLogin.cs",
-              "RelativeDocumentMoniker": "projeto Hokaitel\\FormLogin.cs",
-              "ToolTip": "C:\\Users\\55119\\source\\repos\\projeto Hokaitel\\projeto Hokaitel\\FormLogin.cs",
-              "RelativeToolTip": "projeto Hokaitel\\FormLogin.cs",
-              "ViewState": "AQIAABYAAAAAAAAAAAAAwC4AAAAZAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-24T19:07:44.643Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ReservaAdmin.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\55119\\source\\repos\\projeto Hokaitel\\projeto Hokaitel\\ReservaAdmin.cs",
-              "RelativeDocumentMoniker": "projeto Hokaitel\\ReservaAdmin.cs",
-              "ToolTip": "C:\\Users\\55119\\source\\repos\\projeto Hokaitel\\projeto Hokaitel\\ReservaAdmin.cs [Design]",
-              "RelativeToolTip": "projeto Hokaitel\\ReservaAdmin.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-26T17:12:52.551Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "FormCheckinout.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\55119\\source\\repos\\projeto Hokaitel\\projeto Hokaitel\\FormCheckinout.cs",
-              "RelativeDocumentMoniker": "projeto Hokaitel\\FormCheckinout.cs",
-              "ToolTip": "C:\\Users\\55119\\source\\repos\\projeto Hokaitel\\projeto Hokaitel\\FormCheckinout.cs [Design]",
-              "RelativeToolTip": "projeto Hokaitel\\FormCheckinout.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-24T18:54:49.242Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "FormCheckinout.cs",
-              "DocumentMoniker": "C:\\Users\\55119\\source\\repos\\projeto Hokaitel\\projeto Hokaitel\\FormCheckinout.cs",
-              "RelativeDocumentMoniker": "projeto Hokaitel\\FormCheckinout.cs",
-              "ToolTip": "C:\\Users\\55119\\source\\repos\\projeto Hokaitel\\projeto Hokaitel\\FormCheckinout.cs",
-              "RelativeToolTip": "projeto Hokaitel\\FormCheckinout.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAkwB8AAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-24T19:52:40.441Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "FormMenu.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\55119\\source\\repos\\projeto Hokaitel\\projeto Hokaitel\\FormMenu.cs",
-              "RelativeDocumentMoniker": "projeto Hokaitel\\FormMenu.cs",
-              "ToolTip": "C:\\Users\\55119\\source\\repos\\projeto Hokaitel\\projeto Hokaitel\\FormMenu.cs [Design]",
-              "RelativeToolTip": "projeto Hokaitel\\FormMenu.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-25T16:25:55.858Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "FormMenu.cs",
-              "DocumentMoniker": "C:\\Users\\55119\\source\\repos\\projeto Hokaitel\\projeto Hokaitel\\FormMenu.cs",
-              "RelativeDocumentMoniker": "projeto Hokaitel\\FormMenu.cs",
-              "ToolTip": "C:\\Users\\55119\\source\\repos\\projeto Hokaitel\\projeto Hokaitel\\FormMenu.cs",
-              "RelativeToolTip": "projeto Hokaitel\\FormMenu.cs",
-              "ViewState": "AQIAABMAAAAAAAAAAAAkwCUAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-25T16:30:29.407Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "FormRelatoris.cs",
-              "DocumentMoniker": "C:\\Users\\55119\\source\\repos\\projeto Hokaitel\\projeto Hokaitel\\FormRelatoris.cs",
-              "RelativeDocumentMoniker": "projeto Hokaitel\\FormRelatoris.cs",
-              "ToolTip": "C:\\Users\\55119\\source\\repos\\projeto Hokaitel\\projeto Hokaitel\\FormRelatoris.cs",
-              "RelativeToolTip": "projeto Hokaitel\\FormRelatoris.cs",
-              "ViewState": "AQIAABMAAAAAAAAAAAAQwBEAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-24T19:53:34.295Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "FormCadastrar.cs",
-              "DocumentMoniker": "C:\\Users\\55119\\source\\repos\\projeto Hokaitel\\projeto Hokaitel\\FormCadastrar.cs",
-              "RelativeDocumentMoniker": "projeto Hokaitel\\FormCadastrar.cs",
-              "ToolTip": "C:\\Users\\55119\\source\\repos\\projeto Hokaitel\\projeto Hokaitel\\FormCadastrar.cs",
-              "RelativeToolTip": "projeto Hokaitel\\FormCadastrar.cs",
-              "ViewState": "AQIAAJAAAAAAAAAAAAAowKsAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-24T19:51:28.944Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "FormCadastrar.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\55119\\source\\repos\\projeto Hokaitel\\projeto Hokaitel\\FormCadastrar.cs",
-              "RelativeDocumentMoniker": "projeto Hokaitel\\FormCadastrar.cs",
-              "ToolTip": "C:\\Users\\55119\\source\\repos\\projeto Hokaitel\\projeto Hokaitel\\FormCadastrar.cs [Design]",
-              "RelativeToolTip": "projeto Hokaitel\\FormCadastrar.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-24T19:50:52.372Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "FormLogin.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\55119\\source\\repos\\projeto Hokaitel\\projeto Hokaitel\\FormLogin.Designer.cs",
-              "RelativeDocumentMoniker": "projeto Hokaitel\\FormLogin.Designer.cs",
-              "ToolTip": "C:\\Users\\55119\\source\\repos\\projeto Hokaitel\\projeto Hokaitel\\FormLogin.Designer.cs",
-              "RelativeToolTip": "projeto Hokaitel\\FormLogin.Designer.cs",
-              "ViewState": "AQIAAFwAAAAAAAAAAAAAALYAAAAPAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-25T20:02:42.265Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\55119\\source\\repos\\projeto Hokaitel\\projeto Hokaitel\\Program.cs",
-              "RelativeDocumentMoniker": "projeto Hokaitel\\Program.cs",
-              "ToolTip": "C:\\Users\\55119\\source\\repos\\projeto Hokaitel\\projeto Hokaitel\\Program.cs",
-              "RelativeToolTip": "projeto Hokaitel\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAtAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-24T20:44:17.272Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
               "Title": "FormRelatoris.cs [Design]",
               "DocumentMoniker": "C:\\Users\\55119\\source\\repos\\projeto Hokaitel\\projeto Hokaitel\\FormRelatoris.cs",
               "RelativeDocumentMoniker": "projeto Hokaitel\\FormRelatoris.cs",
@@ -250,7 +82,159 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 7,
+              "Title": "FormCadastrar.cs",
+              "DocumentMoniker": "C:\\Users\\55119\\source\\repos\\projeto Hokaitel\\projeto Hokaitel\\FormCadastrar.cs",
+              "RelativeDocumentMoniker": "projeto Hokaitel\\FormCadastrar.cs",
+              "ToolTip": "C:\\Users\\55119\\source\\repos\\projeto Hokaitel\\projeto Hokaitel\\FormCadastrar.cs",
+              "RelativeToolTip": "projeto Hokaitel\\FormCadastrar.cs",
+              "ViewState": "AQIAAJwAAAAAAAAAAAAAAKQAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T19:51:28.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormMenu.cs",
+              "DocumentMoniker": "C:\\Users\\55119\\source\\repos\\projeto Hokaitel\\projeto Hokaitel\\FormMenu.cs",
+              "RelativeDocumentMoniker": "projeto Hokaitel\\FormMenu.cs",
+              "ToolTip": "C:\\Users\\55119\\source\\repos\\projeto Hokaitel\\projeto Hokaitel\\FormMenu.cs",
+              "RelativeToolTip": "projeto Hokaitel\\FormMenu.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAApwEEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T16:30:29.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormLogin.cs",
+              "DocumentMoniker": "C:\\Users\\55119\\source\\repos\\projeto Hokaitel\\projeto Hokaitel\\FormLogin.cs",
+              "RelativeDocumentMoniker": "projeto Hokaitel\\FormLogin.cs",
+              "ToolTip": "C:\\Users\\55119\\source\\repos\\projeto Hokaitel\\projeto Hokaitel\\FormLogin.cs",
+              "RelativeToolTip": "projeto Hokaitel\\FormLogin.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAAAD8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T19:07:44.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormMenu.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\55119\\source\\repos\\projeto Hokaitel\\projeto Hokaitel\\FormMenu.cs",
+              "RelativeDocumentMoniker": "projeto Hokaitel\\FormMenu.cs",
+              "ToolTip": "C:\\Users\\55119\\source\\repos\\projeto Hokaitel\\projeto Hokaitel\\FormMenu.cs [Design]",
+              "RelativeToolTip": "projeto Hokaitel\\FormMenu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T16:25:55.858Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormRelatoris.cs",
+              "DocumentMoniker": "C:\\Users\\55119\\source\\repos\\projeto Hokaitel\\projeto Hokaitel\\FormRelatoris.cs",
+              "RelativeDocumentMoniker": "projeto Hokaitel\\FormRelatoris.cs",
+              "ToolTip": "C:\\Users\\55119\\source\\repos\\projeto Hokaitel\\projeto Hokaitel\\FormRelatoris.cs",
+              "RelativeToolTip": "projeto Hokaitel\\FormRelatoris.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T19:53:34.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormLogin.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\55119\\source\\repos\\projeto Hokaitel\\projeto Hokaitel\\FormLogin.Designer.cs",
+              "RelativeDocumentMoniker": "projeto Hokaitel\\FormLogin.Designer.cs",
+              "ToolTip": "C:\\Users\\55119\\source\\repos\\projeto Hokaitel\\projeto Hokaitel\\FormLogin.Designer.cs",
+              "RelativeToolTip": "projeto Hokaitel\\FormLogin.Designer.cs",
+              "ViewState": "AQIAAMQAAAAAAAAAAIAwwNQAAACAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T21:53:45.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FormLogin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\55119\\source\\repos\\projeto Hokaitel\\projeto Hokaitel\\FormLogin.cs",
+              "RelativeDocumentMoniker": "projeto Hokaitel\\FormLogin.cs",
+              "ToolTip": "C:\\Users\\55119\\source\\repos\\projeto Hokaitel\\projeto Hokaitel\\FormLogin.cs [Design]",
+              "RelativeToolTip": "projeto Hokaitel\\FormLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T21:53:58.756Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\55119\\source\\repos\\projeto Hokaitel\\projeto Hokaitel\\Program.cs",
+              "RelativeDocumentMoniker": "projeto Hokaitel\\Program.cs",
+              "ToolTip": "C:\\Users\\55119\\source\\repos\\projeto Hokaitel\\projeto Hokaitel\\Program.cs",
+              "RelativeToolTip": "projeto Hokaitel\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T20:44:17.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ReservaAdmin.cs",
+              "DocumentMoniker": "C:\\Users\\55119\\source\\repos\\projeto Hokaitel\\projeto Hokaitel\\ReservaAdmin.cs",
+              "RelativeDocumentMoniker": "projeto Hokaitel\\ReservaAdmin.cs",
+              "ToolTip": "C:\\Users\\55119\\source\\repos\\projeto Hokaitel\\projeto Hokaitel\\ReservaAdmin.cs",
+              "RelativeToolTip": "projeto Hokaitel\\ReservaAdmin.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACAAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T18:08:49.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FormCheckinout.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\55119\\source\\repos\\projeto Hokaitel\\projeto Hokaitel\\FormCheckinout.cs",
+              "RelativeDocumentMoniker": "projeto Hokaitel\\FormCheckinout.cs",
+              "ToolTip": "C:\\Users\\55119\\source\\repos\\projeto Hokaitel\\projeto Hokaitel\\FormCheckinout.cs [Design]",
+              "RelativeToolTip": "projeto Hokaitel\\FormCheckinout.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T18:54:49.242Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FormCheckinout.cs",
+              "DocumentMoniker": "C:\\Users\\55119\\source\\repos\\projeto Hokaitel\\projeto Hokaitel\\FormCheckinout.cs",
+              "RelativeDocumentMoniker": "projeto Hokaitel\\FormCheckinout.cs",
+              "ToolTip": "C:\\Users\\55119\\source\\repos\\projeto Hokaitel\\projeto Hokaitel\\FormCheckinout.cs",
+              "RelativeToolTip": "projeto Hokaitel\\FormCheckinout.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T19:52:40.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ReservaAdmin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\55119\\source\\repos\\projeto Hokaitel\\projeto Hokaitel\\ReservaAdmin.cs",
+              "RelativeDocumentMoniker": "projeto Hokaitel\\ReservaAdmin.cs",
+              "ToolTip": "C:\\Users\\55119\\source\\repos\\projeto Hokaitel\\projeto Hokaitel\\ReservaAdmin.cs [Design]",
+              "RelativeToolTip": "projeto Hokaitel\\ReservaAdmin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T17:12:52.551Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "FormCheckinout.Designer.cs",
               "DocumentMoniker": "C:\\Users\\55119\\source\\repos\\projeto Hokaitel\\projeto Hokaitel\\FormCheckinout.Designer.cs",
               "RelativeDocumentMoniker": "projeto Hokaitel\\FormCheckinout.Designer.cs",

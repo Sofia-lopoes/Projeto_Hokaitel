@@ -36,7 +36,7 @@ namespace projeto_Hokaitel
         private void btnreservas_Click(object sender, EventArgs e)
         {
             this.Hide();
-            ReservaAdmin menu = new ReservaAdmin();
+            FormCheckinout menu = new FormCheckinout();
             menu.Show();
         }
 
@@ -52,6 +52,18 @@ namespace projeto_Hokaitel
             this.Hide();
             FormCadastrar menu = new FormCadastrar();
             menu.Show();
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+            FormRelatoris menu = new FormRelatoris();
+            menu.Show();
+        }
+
+        private void FormMenu_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }

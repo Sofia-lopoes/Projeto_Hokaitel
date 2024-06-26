@@ -33,16 +33,16 @@
             this.bntMinimizar = new FontAwesome.Sharp.IconButton();
             this.btnFechar = new FontAwesome.Sharp.IconButton();
             this.pictureBox3 = new System.Windows.Forms.PictureBox();
+            this.txt123 = new System.Windows.Forms.TextBox();
+            this.txt = new System.Windows.Forms.TextBox();
+            this.text = new System.Windows.Forms.TextBox();
+            this.btnRegistrado = new System.Windows.Forms.Button();
+            this.textsla = new System.Windows.Forms.TextBox();
             this.textNome = new System.Windows.Forms.TextBox();
             this.textEmail = new System.Windows.Forms.TextBox();
             this.textCPF = new System.Windows.Forms.TextBox();
-            this.btnRegistrado = new System.Windows.Forms.Button();
-            this.textSetor = new System.Windows.Forms.TextBox();
-            this.textBox1 = new System.Windows.Forms.TextBox();
-            this.textBox2 = new System.Windows.Forms.TextBox();
-            this.textBox3 = new System.Windows.Forms.TextBox();
-            this.textBox4 = new System.Windows.Forms.TextBox();
-            this.textBox5 = new System.Windows.Forms.TextBox();
+            this.textCargo = new System.Windows.Forms.TextBox();
+            this.textSenha = new System.Windows.Forms.TextBox();
             this.textBox6 = new System.Windows.Forms.TextBox();
             this.label1 = new System.Windows.Forms.Label();
             this.panel1.SuspendLayout();
@@ -108,50 +108,50 @@
             this.pictureBox3.TabStop = false;
             this.pictureBox3.Click += new System.EventHandler(this.pictureBox3_Click);
             // 
-            // textNome
+            // txt123
             // 
-            this.textNome.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(15)))), ((int)(((byte)(15)))), ((int)(((byte)(15)))));
-            this.textNome.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.textNome.Font = new System.Drawing.Font("Century Gothic", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.textNome.ForeColor = System.Drawing.SystemColors.ScrollBar;
-            this.textNome.Location = new System.Drawing.Point(295, 223);
-            this.textNome.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
-            this.textNome.Name = "textNome";
-            this.textNome.Size = new System.Drawing.Size(413, 21);
-            this.textNome.TabIndex = 3;
-            this.textNome.Text = "................................................................................." +
+            this.txt123.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(15)))), ((int)(((byte)(15)))), ((int)(((byte)(15)))));
+            this.txt123.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.txt123.Font = new System.Drawing.Font("Century Gothic", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.txt123.ForeColor = System.Drawing.SystemColors.ScrollBar;
+            this.txt123.Location = new System.Drawing.Point(295, 223);
+            this.txt123.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
+            this.txt123.Name = "txt123";
+            this.txt123.Size = new System.Drawing.Size(413, 21);
+            this.txt123.TabIndex = 3;
+            this.txt123.Text = "................................................................................." +
     ".........................................................";
-            this.textNome.TextChanged += new System.EventHandler(this.textNome_TextChanged);
+            this.txt123.TextChanged += new System.EventHandler(this.textNome_TextChanged);
             // 
-            // textEmail
+            // txt
             // 
-            this.textEmail.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(15)))), ((int)(((byte)(15)))), ((int)(((byte)(15)))));
-            this.textEmail.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.textEmail.Font = new System.Drawing.Font("Century Gothic", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.textEmail.ForeColor = System.Drawing.SystemColors.ScrollBar;
-            this.textEmail.Location = new System.Drawing.Point(295, 268);
-            this.textEmail.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
-            this.textEmail.Name = "textEmail";
-            this.textEmail.Size = new System.Drawing.Size(413, 21);
-            this.textEmail.TabIndex = 4;
-            this.textEmail.Text = "................................................................................." +
+            this.txt.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(15)))), ((int)(((byte)(15)))), ((int)(((byte)(15)))));
+            this.txt.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.txt.Font = new System.Drawing.Font("Century Gothic", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.txt.ForeColor = System.Drawing.SystemColors.ScrollBar;
+            this.txt.Location = new System.Drawing.Point(295, 268);
+            this.txt.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
+            this.txt.Name = "txt";
+            this.txt.Size = new System.Drawing.Size(413, 21);
+            this.txt.TabIndex = 4;
+            this.txt.Text = "................................................................................." +
     "...............................";
-            this.textEmail.TextChanged += new System.EventHandler(this.textEmail_TextChanged);
+            this.txt.TextChanged += new System.EventHandler(this.textEmail_TextChanged);
             // 
-            // textCPF
+            // text
             // 
-            this.textCPF.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(15)))), ((int)(((byte)(15)))), ((int)(((byte)(15)))));
-            this.textCPF.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.textCPF.Font = new System.Drawing.Font("Century Gothic", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.textCPF.ForeColor = System.Drawing.SystemColors.ScrollBar;
-            this.textCPF.Location = new System.Drawing.Point(295, 311);
-            this.textCPF.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
-            this.textCPF.Name = "textCPF";
-            this.textCPF.Size = new System.Drawing.Size(413, 21);
-            this.textCPF.TabIndex = 6;
-            this.textCPF.Text = "................................................................................." +
+            this.text.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(15)))), ((int)(((byte)(15)))), ((int)(((byte)(15)))));
+            this.text.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.text.Font = new System.Drawing.Font("Century Gothic", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.text.ForeColor = System.Drawing.SystemColors.ScrollBar;
+            this.text.Location = new System.Drawing.Point(295, 311);
+            this.text.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
+            this.text.Name = "text";
+            this.text.Size = new System.Drawing.Size(413, 21);
+            this.text.TabIndex = 6;
+            this.text.Text = "................................................................................." +
     "....................................................";
-            this.textCPF.TextChanged += new System.EventHandler(this.textCPF_TextChanged);
+            this.text.TextChanged += new System.EventHandler(this.textCPF_TextChanged);
             // 
             // btnRegistrado
             // 
@@ -166,86 +166,87 @@
             this.btnRegistrado.UseVisualStyleBackColor = true;
             this.btnRegistrado.Click += new System.EventHandler(this.btnRegistrado_Click);
             // 
-            // textSetor
+            // textsla
             // 
-            this.textSetor.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(15)))), ((int)(((byte)(15)))), ((int)(((byte)(15)))));
-            this.textSetor.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.textSetor.Font = new System.Drawing.Font("Century Gothic", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.textSetor.ForeColor = System.Drawing.SystemColors.ScrollBar;
-            this.textSetor.Location = new System.Drawing.Point(295, 353);
-            this.textSetor.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
-            this.textSetor.Name = "textSetor";
-            this.textSetor.Size = new System.Drawing.Size(413, 21);
-            this.textSetor.TabIndex = 9;
-            this.textSetor.Text = "................................................................................." +
+            this.textsla.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(15)))), ((int)(((byte)(15)))), ((int)(((byte)(15)))));
+            this.textsla.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textsla.Font = new System.Drawing.Font("Century Gothic", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.textsla.ForeColor = System.Drawing.SystemColors.ScrollBar;
+            this.textsla.Location = new System.Drawing.Point(295, 353);
+            this.textsla.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
+            this.textsla.Name = "textsla";
+            this.textsla.Size = new System.Drawing.Size(413, 21);
+            this.textsla.TabIndex = 9;
+            this.textsla.Text = "................................................................................." +
     ".........";
-            this.textSetor.TextChanged += new System.EventHandler(this.textSetor_TextChanged);
+            this.textsla.TextChanged += new System.EventHandler(this.textSetor_TextChanged);
             // 
-            // textBox1
+            // textNome
             // 
-            this.textBox1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(15)))), ((int)(((byte)(15)))), ((int)(((byte)(15)))));
-            this.textBox1.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.textBox1.Font = new System.Drawing.Font("Century Gothic", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.textBox1.ForeColor = System.Drawing.SystemColors.ScrollBar;
-            this.textBox1.Location = new System.Drawing.Point(295, 209);
-            this.textBox1.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
-            this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(413, 21);
-            this.textBox1.TabIndex = 10;
-            this.textBox1.Text = "Nome";
+            this.textNome.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(15)))), ((int)(((byte)(15)))), ((int)(((byte)(15)))));
+            this.textNome.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textNome.Font = new System.Drawing.Font("Century Gothic", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.textNome.ForeColor = System.Drawing.SystemColors.ScrollBar;
+            this.textNome.Location = new System.Drawing.Point(295, 209);
+            this.textNome.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
+            this.textNome.Name = "textNome";
+            this.textNome.Size = new System.Drawing.Size(413, 21);
+            this.textNome.TabIndex = 10;
+            this.textNome.Text = "Nome";
             // 
-            // textBox2
+            // textEmail
             // 
-            this.textBox2.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(15)))), ((int)(((byte)(15)))), ((int)(((byte)(15)))));
-            this.textBox2.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.textBox2.Font = new System.Drawing.Font("Century Gothic", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.textBox2.ForeColor = System.Drawing.SystemColors.ScrollBar;
-            this.textBox2.Location = new System.Drawing.Point(295, 252);
-            this.textBox2.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
-            this.textBox2.Name = "textBox2";
-            this.textBox2.Size = new System.Drawing.Size(413, 21);
-            this.textBox2.TabIndex = 11;
-            this.textBox2.Text = "Email";
+            this.textEmail.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(15)))), ((int)(((byte)(15)))), ((int)(((byte)(15)))));
+            this.textEmail.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textEmail.Font = new System.Drawing.Font("Century Gothic", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.textEmail.ForeColor = System.Drawing.SystemColors.ScrollBar;
+            this.textEmail.Location = new System.Drawing.Point(295, 252);
+            this.textEmail.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
+            this.textEmail.Name = "textEmail";
+            this.textEmail.Size = new System.Drawing.Size(413, 21);
+            this.textEmail.TabIndex = 11;
+            this.textEmail.Text = "Email";
             // 
-            // textBox3
+            // textCPF
             // 
-            this.textBox3.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(15)))), ((int)(((byte)(15)))), ((int)(((byte)(15)))));
-            this.textBox3.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.textBox3.Font = new System.Drawing.Font("Century Gothic", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.textBox3.ForeColor = System.Drawing.SystemColors.ScrollBar;
-            this.textBox3.Location = new System.Drawing.Point(295, 297);
-            this.textBox3.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
-            this.textBox3.Name = "textBox3";
-            this.textBox3.Size = new System.Drawing.Size(413, 21);
-            this.textBox3.TabIndex = 12;
-            this.textBox3.Text = "CPF";
-            this.textBox3.TextChanged += new System.EventHandler(this.textBox3_TextChanged);
+            this.textCPF.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(15)))), ((int)(((byte)(15)))), ((int)(((byte)(15)))));
+            this.textCPF.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textCPF.Font = new System.Drawing.Font("Century Gothic", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.textCPF.ForeColor = System.Drawing.SystemColors.ScrollBar;
+            this.textCPF.Location = new System.Drawing.Point(295, 297);
+            this.textCPF.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
+            this.textCPF.Name = "textCPF";
+            this.textCPF.Size = new System.Drawing.Size(413, 21);
+            this.textCPF.TabIndex = 12;
+            this.textCPF.Text = "CPF";
+            this.textCPF.TextChanged += new System.EventHandler(this.textBox3_TextChanged);
             // 
-            // textBox4
+            // textCargo
             // 
-            this.textBox4.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(15)))), ((int)(((byte)(15)))), ((int)(((byte)(15)))));
-            this.textBox4.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.textBox4.Font = new System.Drawing.Font("Century Gothic", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.textBox4.ForeColor = System.Drawing.SystemColors.ScrollBar;
-            this.textBox4.Location = new System.Drawing.Point(295, 340);
-            this.textBox4.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
-            this.textBox4.Name = "textBox4";
-            this.textBox4.Size = new System.Drawing.Size(413, 21);
-            this.textBox4.TabIndex = 13;
-            this.textBox4.Text = "Setor";
+            this.textCargo.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(15)))), ((int)(((byte)(15)))), ((int)(((byte)(15)))));
+            this.textCargo.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textCargo.Font = new System.Drawing.Font("Century Gothic", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.textCargo.ForeColor = System.Drawing.SystemColors.ScrollBar;
+            this.textCargo.Location = new System.Drawing.Point(295, 340);
+            this.textCargo.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
+            this.textCargo.Name = "textCargo";
+            this.textCargo.Size = new System.Drawing.Size(413, 21);
+            this.textCargo.TabIndex = 13;
+            this.textCargo.Text = "Cargo";
             // 
-            // textBox5
+            // textSenha
             // 
-            this.textBox5.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(15)))), ((int)(((byte)(15)))), ((int)(((byte)(15)))));
-            this.textBox5.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.textBox5.Font = new System.Drawing.Font("Century Gothic", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.textBox5.ForeColor = System.Drawing.SystemColors.ScrollBar;
-            this.textBox5.Location = new System.Drawing.Point(295, 393);
-            this.textBox5.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
-            this.textBox5.Name = "textBox5";
-            this.textBox5.Size = new System.Drawing.Size(413, 21);
-            this.textBox5.TabIndex = 14;
-            this.textBox5.Text = "Senha ";
+            this.textSenha.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(15)))), ((int)(((byte)(15)))), ((int)(((byte)(15)))));
+            this.textSenha.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textSenha.Font = new System.Drawing.Font("Century Gothic", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.textSenha.ForeColor = System.Drawing.SystemColors.ScrollBar;
+            this.textSenha.Location = new System.Drawing.Point(295, 393);
+            this.textSenha.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
+            this.textSenha.Name = "textSenha";
+            this.textSenha.Size = new System.Drawing.Size(413, 21);
+            this.textSenha.TabIndex = 14;
+            this.textSenha.Text = "Senha ";
+            this.textSenha.TextChanged += new System.EventHandler(this.textBox5_TextChanged);
             // 
             // textBox6
             // 
@@ -280,17 +281,17 @@
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(15)))), ((int)(((byte)(15)))), ((int)(((byte)(15)))));
             this.ClientSize = new System.Drawing.Size(945, 600);
             this.Controls.Add(this.label1);
-            this.Controls.Add(this.textBox5);
-            this.Controls.Add(this.textBox4);
-            this.Controls.Add(this.textBox3);
-            this.Controls.Add(this.textBox2);
-            this.Controls.Add(this.textBox1);
-            this.Controls.Add(this.textSetor);
-            this.Controls.Add(this.btnRegistrado);
-            this.Controls.Add(this.textBox6);
+            this.Controls.Add(this.textSenha);
+            this.Controls.Add(this.textCargo);
             this.Controls.Add(this.textCPF);
             this.Controls.Add(this.textEmail);
             this.Controls.Add(this.textNome);
+            this.Controls.Add(this.textsla);
+            this.Controls.Add(this.btnRegistrado);
+            this.Controls.Add(this.textBox6);
+            this.Controls.Add(this.text);
+            this.Controls.Add(this.txt);
+            this.Controls.Add(this.txt123);
             this.Controls.Add(this.panel1);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.Name = "FormCadastrar";
@@ -306,19 +307,19 @@
 
         #endregion
         private System.Windows.Forms.Panel panel1;
-        private System.Windows.Forms.TextBox textNome;
-        private System.Windows.Forms.TextBox textEmail;
-        private System.Windows.Forms.TextBox textCPF;
+        private System.Windows.Forms.TextBox txt123;
+        private System.Windows.Forms.TextBox txt;
+        private System.Windows.Forms.TextBox text;
         private System.Windows.Forms.Button btnRegistrado;
-        private System.Windows.Forms.TextBox textSetor;
+        private System.Windows.Forms.TextBox textsla;
         private System.Windows.Forms.PictureBox pictureBox3;
         private FontAwesome.Sharp.IconButton bntMinimizar;
         private FontAwesome.Sharp.IconButton btnFechar;
-        private System.Windows.Forms.TextBox textBox1;
-        private System.Windows.Forms.TextBox textBox2;
-        private System.Windows.Forms.TextBox textBox3;
-        private System.Windows.Forms.TextBox textBox4;
-        private System.Windows.Forms.TextBox textBox5;
+        private System.Windows.Forms.TextBox textNome;
+        private System.Windows.Forms.TextBox textEmail;
+        private System.Windows.Forms.TextBox textCPF;
+        private System.Windows.Forms.TextBox textCargo;
+        private System.Windows.Forms.TextBox textSenha;
         private System.Windows.Forms.TextBox textBox6;
         private System.Windows.Forms.Label label1;
     }
