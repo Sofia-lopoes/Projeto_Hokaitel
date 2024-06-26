@@ -54,7 +54,6 @@
             this.panel1.Name = "panel1";
             this.panel1.Size = new System.Drawing.Size(281, 412);
             this.panel1.TabIndex = 0;
-            this.panel1.MouseDown += new System.Windows.Forms.MouseEventHandler(this.panel1_MouseDown);
             // 
             // pictureBox3
             // 
@@ -108,10 +107,7 @@
             this.inputUser.Size = new System.Drawing.Size(413, 21);
             this.inputUser.TabIndex = 1;
             this.inputUser.Text = "Usuario";
-            this.inputUser.TextChanged += new System.EventHandler(this.textuser1_TextChanged);
-            this.inputUser.Enter += new System.EventHandler(this.textuser1_Enter);
-            this.inputUser.Leave += new System.EventHandler(this.textuser1_Leave);
-            this.inputUser.MouseDown += new System.Windows.Forms.MouseEventHandler(this.Form1_MouseDown);
+            this.inputUser.TextChanged += new System.EventHandler(this.inputUser_TextChanged);
             // 
             // inputSenha
             // 
@@ -126,9 +122,6 @@
             this.inputSenha.TabIndex = 2;
             this.inputSenha.Text = "Senha";
             this.inputSenha.UseWaitCursor = true;
-            this.inputSenha.TextChanged += new System.EventHandler(this.textsenha1_TextChanged);
-            this.inputSenha.Enter += new System.EventHandler(this.textsenha1_Enter);
-            this.inputSenha.Leave += new System.EventHandler(this.textsenha1_Leave);
             // 
             // label1
             // 
@@ -140,7 +133,6 @@
             this.label1.Size = new System.Drawing.Size(116, 44);
             this.label1.TabIndex = 6;
             this.label1.Text = "Login";
-            this.label1.Click += new System.EventHandler(this.label1_Click);
             // 
             // buttonlogin
             // 
@@ -171,7 +163,6 @@
             this.btnFechar.Size = new System.Drawing.Size(49, 31);
             this.btnFechar.TabIndex = 7;
             this.btnFechar.UseVisualStyleBackColor = true;
-            this.btnFechar.Click += new System.EventHandler(this.btnFechar_Click_1);
             // 
             // bntMinimizar
             // 
@@ -189,7 +180,6 @@
             this.bntMinimizar.Size = new System.Drawing.Size(49, 31);
             this.bntMinimizar.TabIndex = 8;
             this.bntMinimizar.UseVisualStyleBackColor = true;
-            this.bntMinimizar.Click += new System.EventHandler(this.bntMinimizar_Click);
             // 
             // iconButton1
             // 
@@ -207,7 +197,6 @@
             this.iconButton1.Size = new System.Drawing.Size(49, 31);
             this.iconButton1.TabIndex = 9;
             this.iconButton1.UseVisualStyleBackColor = true;
-            this.iconButton1.Click += new System.EventHandler(this.iconButton1_Click);
             // 
             // FormLogin
             // 
@@ -231,8 +220,6 @@
             this.Name = "FormLogin";
             this.Opacity = 0.9D;
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Load += new System.EventHandler(this.FormLogin_Load);
-            this.MouseDown += new System.Windows.Forms.MouseEventHandler(this.panel1_MouseDown);
             this.panel1.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).EndInit();
             this.ResumeLayout(false);

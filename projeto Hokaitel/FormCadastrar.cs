@@ -146,5 +146,29 @@ namespace projeto_Hokaitel
         {
             Application.Exit();
         }
+
+        private void pictureBox3_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+            FormMenu menu = new FormMenu();
+            menu.Show();
+        }
+
+        private void textBox3_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btnRegistrado_Click(object sender, EventArgs e)
+        {
+
+            if (count > 0)
+            {
+                FormLogin formLogin1 = new FormLogin();
+                formLogin1.Show();
+                this.Hide();
+            }
+
+        }
     }
 }

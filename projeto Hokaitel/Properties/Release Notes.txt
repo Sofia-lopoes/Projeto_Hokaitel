@@ -1,0 +1,8 @@
+Connector/NET 8.4 Release Notes
+------------------------------------
+Welcome to the release notes for Connector/NET 8.3
+
+What's new in 8.4
+--------------------
+
+Connector/NET added support for TLS1.3 and removed support for FIDO authentication plugin.

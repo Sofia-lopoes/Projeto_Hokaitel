@@ -31,9 +31,9 @@
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(FormCheckinout));
             this.panel1 = new System.Windows.Forms.Panel();
             this.pictureBox3 = new System.Windows.Forms.PictureBox();
+            this.btnentrar1 = new System.Windows.Forms.Button();
             this.textNome = new System.Windows.Forms.TextBox();
             this.textCPF = new System.Windows.Forms.TextBox();
-            this.btnentrar1 = new System.Windows.Forms.Button();
             this.textCheckin = new System.Windows.Forms.TextBox();
             this.textCheckout = new System.Windows.Forms.TextBox();
             this.label1 = new System.Windows.Forms.Label();
@@ -78,6 +78,21 @@
             this.pictureBox3.TabStop = false;
             this.pictureBox3.Click += new System.EventHandler(this.pictureBox3_Click);
             // 
+            // btnentrar1
+            // 
+            this.btnentrar1.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
+            this.btnentrar1.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
+            this.btnentrar1.Font = new System.Drawing.Font("Century Gothic", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnentrar1.ForeColor = System.Drawing.SystemColors.ButtonShadow;
+            this.btnentrar1.Location = new System.Drawing.Point(29, 404);
+            this.btnentrar1.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
+            this.btnentrar1.Name = "btnentrar1";
+            this.btnentrar1.Size = new System.Drawing.Size(148, 33);
+            this.btnentrar1.TabIndex = 4;
+            this.btnentrar1.Text = "Reservar";
+            this.btnentrar1.UseVisualStyleBackColor = true;
+            this.btnentrar1.Click += new System.EventHandler(this.btnentrar1_Click);
+            // 
             // textNome
             // 
             this.textNome.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(15)))), ((int)(((byte)(15)))), ((int)(((byte)(15)))));
@@ -105,20 +120,6 @@
             this.textCPF.TabIndex = 3;
             this.textCPF.Text = "................................................................................." +
     "...............";
-            // 
-            // btnentrar1
-            // 
-            this.btnentrar1.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.btnentrar1.Font = new System.Drawing.Font("Century Gothic", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnentrar1.ForeColor = System.Drawing.SystemColors.ButtonShadow;
-            this.btnentrar1.Location = new System.Drawing.Point(29, 404);
-            this.btnentrar1.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
-            this.btnentrar1.Name = "btnentrar1";
-            this.btnentrar1.Size = new System.Drawing.Size(148, 33);
-            this.btnentrar1.TabIndex = 4;
-            this.btnentrar1.Text = "Reservar";
-            this.btnentrar1.UseVisualStyleBackColor = true;
-            this.btnentrar1.Click += new System.EventHandler(this.btnentrar1_Click);
             // 
             // textCheckin
             // 
@@ -267,7 +268,7 @@
             this.dateTimeCheckin.CalendarTitleForeColor = System.Drawing.SystemColors.ControlDarkDark;
             this.dateTimeCheckin.CalendarTrailingForeColor = System.Drawing.SystemColors.InfoText;
             this.dateTimeCheckin.Font = new System.Drawing.Font("Century Gothic", 7.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.dateTimeCheckin.Location = new System.Drawing.Point(385, 299);
+            this.dateTimeCheckin.Location = new System.Drawing.Point(402, 309);
             this.dateTimeCheckin.Name = "dateTimeCheckin";
             this.dateTimeCheckin.Size = new System.Drawing.Size(293, 23);
             this.dateTimeCheckin.TabIndex = 15;
@@ -280,7 +281,7 @@
             this.dateTimeCheckuot.CalendarTitleForeColor = System.Drawing.SystemColors.ControlDarkDark;
             this.dateTimeCheckuot.CalendarTrailingForeColor = System.Drawing.SystemColors.InfoText;
             this.dateTimeCheckuot.Font = new System.Drawing.Font("Century Gothic", 7.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.dateTimeCheckuot.Location = new System.Drawing.Point(385, 351);
+            this.dateTimeCheckuot.Location = new System.Drawing.Point(402, 362);
             this.dateTimeCheckuot.Name = "dateTimeCheckuot";
             this.dateTimeCheckuot.Size = new System.Drawing.Size(293, 23);
             this.dateTimeCheckuot.TabIndex = 16;
